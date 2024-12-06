@@ -1,7 +1,7 @@
 # Dev Override Values for my Helm Chart
 
 container:
-  image: temson13/temson13
+  image: keneshbekov5k/aiba10
 
 replicaCount: 4
 

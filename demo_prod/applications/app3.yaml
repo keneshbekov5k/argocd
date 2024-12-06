@@ -18,7 +18,7 @@ spec:
       - values_prod.yaml
       parameters:
       - name: "container.image"
-        value: temson13/temson13
+        value: keneshbekov5k/aiba10
 
   project: default
   syncPolicy:
