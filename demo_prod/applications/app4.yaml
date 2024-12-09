@@ -18,8 +18,8 @@ spec:
       - values_prod.yaml
       parameters:
       - name: "container.image"
-        value: tomcat:lates
-
+        value: tomcat:latest
+        
   project: default
   syncPolicy:
     automated:
